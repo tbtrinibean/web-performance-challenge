@@ -29,6 +29,8 @@
 
   .cookieLayer__base {
     bottom: 0;
+    overflow: scroll;
+    top: 80%;
   }
 
   .main__advertising {

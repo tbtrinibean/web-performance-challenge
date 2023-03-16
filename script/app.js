@@ -59,12 +59,9 @@ const cookieLayerInit = () => {
   });
 };
 
-const initApp = () => {
-  const lazyLoadInstance = new LazyLoad();
-  
+const initApp = () => {  
   dynamicContent();
   cookieLayerInit();
-  lazyLoadInstance.update();
 };
 
 initApp();

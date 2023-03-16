@@ -30,4 +30,8 @@
   .cookieLayer__base {
     bottom: 0;
   }
+
+  .main__advertising {
+    min-height: 100px;
+  }
 }

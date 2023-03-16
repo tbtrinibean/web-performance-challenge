@@ -4,6 +4,10 @@
   overflow: hidden;
 }
 
+.hero__teaser img {
+  height: 100%
+}
+
 .hero__teaserText {
   position: absolute;
   left: 5%;
